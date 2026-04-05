@@ -27,6 +27,12 @@ As shown in the repository:
 
 ---
 
+# Automated Email Reporting System
+
+![Project Demo](charts/fraudDetection.com-video-to-gif-converter.gif)
+
+...rest of your content...
+
 ## 💻 Core Logic Overview
 
 ### 1. Database Management
