@@ -1,5 +1,7 @@
 # Automated Email Reporting System
 
+![Project Demo](charts/fraudDetection.com-video-to-gif-converter.gif)
+
 This project automates the end-to-end process of data extraction, storage, visualization, and stakeholder communication. It streamlines daily reporting by handling data pipelines and email delivery through Python.
 
 ## 📂 Project Structure
@@ -25,13 +27,7 @@ As shown in the repository:
 * **Database:** SQLite
 * **Libraries:** `pandas`, `matplotlib`, `smtplib`, `email.mime`, `sqlite3`
 
----
-
-# Automated Email Reporting System
-
-![Project Demo](charts/fraudDetection.com-video-to-gif-converter.gif)
-
-...rest of your content...
+--
 
 ## 💻 Core Logic Overview
 
