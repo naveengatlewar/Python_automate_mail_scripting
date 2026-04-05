@@ -1,7 +1,5 @@
 # Automated Email Reporting System
 
-![Project Demo](charts/fraudDetection.com-video-to-gif-converter.gif)
-
 This project automates the end-to-end process of data extraction, storage, visualization, and stakeholder communication. It streamlines daily reporting by handling data pipelines and email delivery through Python.
 
 ## 📂 Project Structure
